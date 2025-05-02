@@ -118,7 +118,7 @@ Our go-to breakfast spot in Kyoto was **Shinshindo — Teramachi**. A little
 
 After breakfast, we hopped on a bus from the nearby stand and headed to **Kinkakuji — The Golden Pavilion**. The place was bustling with visitors, especially school kids in uniform — definitely looked like a school trip day. The weather was sunny and the golden temple? Absolutely dazzling under that bright sunlight. Autumn was just beginning to show, with hints of red and yellow creeping onto the leaves.
 
-![kinkakuji](../../assets/images/japan/kinkakuji.jpg)
+![kinkakuji](/images/japan/kinkakuji.jpg)
 
 It was a clean, serene, and picturesque place — but the sun was intense, and we started to feel the travel fatigue creeping in. Thankfully, a quick water break and some ice creams brought us back to life.
 
@@ -130,11 +130,15 @@ We even bumped into two performers dressed as samurai. One of them was super fri
 
 One floor up was something straight out of our childhood: a **Power Rangers exhibit**! Seeing all the red rangers in one frame was pure nostalgia. 🥹
 
+![toei-studio](/images/japan/toei-studio.jpg)
+
 After soaking in the studio vibes, we walked 15 minutes to **Hanazono Station** and took the train back to **Kyoto Station**. And wow — Kyoto Station itself is so massive and futuristic that it looks more like an airport or a luxury shopping mall.
 
 Outside, we got a perfect view of the **Kyoto Tower**, glowing in red, white, and blue. It literally looked like a giant _kuthu vilakku_ (traditional lamp) lighting up the night sky. 🏮
 
 Right opposite was **Aeon Mall**, calling out to us like a siren. Of course, we gave in and did a bit of clothes and shoe shopping — because why not? Retail therapy is a valid tourist activity. 😄🛍️
+
+![alt text](/images/japan/kyoto-station.jpg)
 
 Finally, we headed back to our stay, feet aching but hearts full. Slept like babies after a day well spent.
 
@@ -146,11 +150,15 @@ We caught a train from **Kyoto to Nara Station**. The weather was breezy and ove
 
 **Nara** is known not just for its temples and shrines, but also for its **adorable wild deer** that roam freely in Nara Park. The moment we crossed the first big torii gate, we were greeted by a herd of deer chilling like they owned the place (which, to be fair, they kinda do).
 
+![alt text](/images/japan/nara.jpg)
+
 We made our way to the grand **Tōdaiji Temple**, a UNESCO World Heritage Site and one of Japan’s most iconic landmarks. It’s home to the **Daibutsu**, a massive bronze statue of Buddha Vairocana, housed in what is claimed to be the **largest wooden structure in the world**.
 
 And yes — the Great Buddha truly _was_ great. So great, in fact, that my **Nikon D5600 with a 35mm lens** couldn’t capture it up close. I had to keep backing up just to fit the whole thing in the frame. Could I have just used my phone? Of course! But guess what — my phone died _just_ before I entered. Divine intervention? Maybe a sign to soak it all in without distractions 😅.
 
 The temple interior was serene and beautiful. There were multiple idols, intricate wooden carvings, and even a **miniature model of the entire temple**. One of the coolest finds was the **incense altar**, which filled the hall with a calming fragrance.
+
+![alt text](/images/japan/todaiji.jpg)
 
 This is also where we bought our **first stamp book (Goshuincho)** — and here’s a pro tip: **buy one early in your trip**. Almost every major shrine, temple, and even train station in Japan has a unique stamp. Collecting them becomes a fun ritual, and flipping through them back home will bring back all the nostalgia in one go. Trust me — it’s the best kind of souvenir. 🧾
 
@@ -169,17 +177,23 @@ At the entrance, a scenic little bridge leads you to the ticket counter. And her
 
 **Himeji-jō**, or the **White Heron Castle**, is the finest surviving example of **17th-century Japanese castle architecture**. It’s a **UNESCO World Heritage Site**, a **Japanese National Treasure**, and one of the country’s **Three Famous Castles**. The stark white walls and graceful design truly live up to its name.
 
+![alt text](/images/japan/himeji.jpg)
+
 We climbed all the way to the top, and the view from there was absolutely magical. **Raindrops trickled off the curved rooftops**, framing the roads below in a poetic, almost cinematic way.
 
 Once we descended, it was time to fulfill a major food goal — we tried the **famous Kobe beef**. And wow, it absolutely lived up to the hype. The texture, the flavor — it pretty much melted in the mouth. Pure bliss. 🥩
 
 After that, we roamed around Himeji’s shopping streets, grabbed a few **fridge magnets** and souvenirs. The **long, narrow lanes** reminded me of South Indian temple corridors — perfectly aligned and seemingly never-ending. You get tired just looking at them 😅.
 
+![alt text](/images/japan/kobe-beef.jpg)
+
 But we weren’t done yet! On our way back to Kyoto, we made a **pitstop at Osaka** to explore the city at night. And Osaka at night? It’s a **vibe**.
 
 The streets were alive with **neon signs**, **glowing red lanterns**, and **people strolling under transparent umbrellas** — like a scene straight out of an anime. We grabbed a hot coffee from **Starbucks**, which was perfect for the drizzly weather.
 
 As we stepped outside, the sight of dozens of clear umbrellas glowing under city lights was honestly so beautiful, it stayed with us. We even stumbled upon a **3D billboard featuring a cat** — such a random yet amazing little surprise.
+
+![alt text](/images/japan/osaka.jpg)
 
 With our hearts full and feet tired, we made our way back to **Kyoto** and wrapped up the night with some well-earned sleep in the cool, cozy air.
 
