@@ -118,6 +118,8 @@ Our go-to breakfast spot in Kyoto was **Shinshindo — Teramachi**. A little
 
 After breakfast, we hopped on a bus from the nearby stand and headed to **Kinkakuji — The Golden Pavilion**. The place was bustling with visitors, especially school kids in uniform — definitely looked like a school trip day. The weather was sunny and the golden temple? Absolutely dazzling under that bright sunlight. Autumn was just beginning to show, with hints of red and yellow creeping onto the leaves.
 
+![kinkakuji](../../assets/images/japan/kinkakuji.jpg)
+
 It was a clean, serene, and picturesque place — but the sun was intense, and we started to feel the travel fatigue creeping in. Thankfully, a quick water break and some ice creams brought us back to life.
 
 From there, we caught a bus to **Kitano Hakubai-Cho Station**, which felt like a quiet dead-end station at a crossroads. From here, we boarded the **Randen tram line**, a charming little purple single-coach tram. We got off at **Satsueisho-mae Station** and walked about 1 km to reach the **Toei Kyoto Studio Park**.
