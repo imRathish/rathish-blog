@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://rathish.netlify.app/"
 languageCode = "en-us"
 title = "Rathish's Blog"
 theme = "PaperMod"
