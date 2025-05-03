@@ -7,6 +7,35 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowShareButtons = true
   ShowPostNavLinks = true
+  mainSections = ["posts"]
+  defaultTheme = "auto"
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  [params.list]
+    layout = "cards"  # Options: list, cards, compact
+
+[params.homeInfoParams]
+  Title = "👋 Welcome"
+  Content = """
+Hi, I’m Subramanyam — but most people call me Rathish. I’m a software engineer, and this is my little corner of the internet where I share my travels, photography, and whatever else sparks my curiosity. ✨
+"""
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/imRathish"
+
+[[params.socialIcons]]
+name = "linkedin"
+url = "https://linkedin.com/in/subramanyam-s-s-11252313b"
+
+[menu]
+
+  [[menu.main]]
+  identifier = "search"
+  name = "Search"
+  url = "/search/"
+  weight = 30
 
 [markup]
   [markup.goldmark]

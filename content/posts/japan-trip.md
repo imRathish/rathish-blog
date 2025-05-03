@@ -1,5 +1,12 @@
 
-# 14 days in Japan
+---
+title: "14 Days in Japan"
+date: 2024-10-15
+draft: false
+summary: "Our magical October adventure through Japan."
+images: ["/images/japan/us.jpg"]
+tags: ["Japan", "Travel"]
+---
 
 **October** became _our_ month to explore Japan, and for good reason! It’s one of those magical times when the tourist crowds ease up, giving you a bit more breathing room to enjoy the country. Plus, it’s the start of autumn — while the fiery browns and golds aren’t in full bloom just yet, you can feel the subtle transformation as the leaves hint at their seasonal change.
 
@@ -355,6 +362,8 @@ From there, we took an hour-long walk through lush green trails running alongsid
 
 The place is a **natural masterpiece** — a crystal-clear river, swaying forests, wooden hanging bridges, and snow-dusted peaks far away. It probably looks its most magical in **full autumn** or **snow season**, but even now, it was jaw-dropping.
 
+![alt text](/images/japan/kamikochi.jpg)
+
 We grabbed a few bites — **Nikuman** (a fluffy steamed pork bun) and some classic **Japanese ice cream**, all while soaking in the mountain air. Though it had a decent crowd, it somehow stayed peacefully quiet — the kind of place that makes you whisper without even realizing.
 
 After a satisfying walk and a heart full of views, we headed to the return bus stop. Then came the surprise of the day: **a cab turned out to be cheaper than public transport** for our group of four.
@@ -368,6 +377,8 @@ We stopped at a **7-Eleven** to withdraw cash (as most cabs accept **cash only**
 We hopped back on our cycles and headed to **Matsumoto-jō Castle** — and _wow_.
 
 Lit up against the night sky, **Matsumoto Castle** looked like a floating fortress. The castle is surrounded by a moat, and the shimmering reflections made the whole scene feel ethereal. Cycling around in the dark, castle lights glowing, river on one side — it honestly gave off **Stranger Things vibes**, only missing the synth BGM. 🎵🚲
+
+![alt text](/images/japan/matsumoto-castle.jpg)
 
 We wrapped up the day with a cozy dinner, chatted about how wild and beautiful the day was, and tucked ourselves in for a well-deserved night’s sleep — **our last night in Matsumoto**, surrounded by rivers, mountains, and the quiet kind of peace only a mountain town can offer.
 
