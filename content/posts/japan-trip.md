@@ -193,7 +193,7 @@ The streets were alive with **neon signs**, **glowing red lanterns**, and **peop
 
 As we stepped outside, the sight of dozens of clear umbrellas glowing under city lights was honestly so beautiful, it stayed with us. We even stumbled upon a **3D billboard featuring a cat** — such a random yet amazing little surprise.
 
-![alt text](/images/japan/osaka.jpg)
+
 
 With our hearts full and feet tired, we made our way back to **Kyoto** and wrapped up the night with some well-earned sleep in the cool, cozy air.
 
@@ -211,17 +211,23 @@ While this Buddha wasn’t as towering as the one in Nara, it looked absolutely 
 
 From there, we made our way toward **Amaharashi Coast**, a scenic stretch of the stunning **Toyama Bay**. On the walk to **Etchū-Nakagawa Station**, we passed tiny bridges and gentle streams, including a **gorgeous red bridge** nestled in lush greenery. It was postcard-perfect.
 
+![alt text](/images/japan/great-buddha.jpg)
+
 And then came the moment that felt straight out of an **Instagram reel** — a tiny, adorable **orange train** emerged from the trees onto the tracks. With **blue skies, birds flying**, and crisp air around us, the whole scene just felt surreal.
+
+![alt text](/images/japan/orange-train.jpg)
 
 The ride to the coast was the highlight — **train tracks running almost at the edge of the sea**, waves crashing close by, and the sense that you’re floating just above the water. It was one of the most beautiful train rides we’ve ever taken.
 
 **Amaharashi Coast** didn’t disappoint either. We clicked dozens of photos — on the tracks, at the crossings, with the ocean in the backdrop. But as the **cold wind picked up**, we found ourselves shivering and had to rush back to the station for shelter. ❄️
 
+![alt text](/images/japan/amarahashi-coast.jpg)
+
 We caught a **local bus** from there, looped back through **Takaoka Station**, and finally returned to Toyama. By nightfall, the once-empty streets had come alive a bit — lit windows, light traffic, and the quiet hum of a small city getting ready to wind down.
 
 We stayed only **one night in Toyama**, and this was our final one. It was a cold, calm, and visually rich day — filled with scenic walks, quiet moments, and unforgettable ocean views. 🌌
 
-### Day 6: Kurobe Gorge
+### Day 6: Gorge Runs, Wrist-Wave Lockers & A Cold Night beside the Alps 🏞️🚴🍔
 
 We checked out of **Hotel Livemax Toyama** after a short but sweet stay. Yesterday was all about **Toyama Bay’s western coast** — today we set off to explore the **eastern side**, with a big highlight on the way: the iconic **Kurobe Gorge**. Our end destination after sundown? The mountain city of **Matsumoto**, in **Nagano Prefecture**.
 
@@ -236,6 +242,8 @@ Now, here’s the thing. You _do not_ want to explore with heavy luggage —�
 Even cooler? You can transfer your physical Suica to your **iPhone**… or in my case, my **Apple Watch**. Swiping my wrist to open a locker made me feel like I was in a sci-fi flick. It’s those little Japan moments that make your first international trip from India feel ✨next-level✨.
 
 Outside the station, we grabbed a quick coffee at **7-Eleven**, sat at a little table with four chairs, and just soaked in the sunshine. Something about drinking hot coffee in a cold, quiet town hits different.
+
+![alt text](/images/japan/shin-kurobe.jpg)
 
 Now, to get to the gorge, we had to make a short walk from Kurobe-Unazuki Onsen Station to **Shin-Kurobe Station**.
 
@@ -257,9 +265,11 @@ Oh, and remember — **Japan is earthquake-prone**, so we noticed active con
 
 After the scenic ride, we returned to the station and had a comforting bowl of **Tensoba** (tempura soba noodles) with the mountains smiling at us in the sun.
 
+![alt text](/images/japan/kurobe-gorge.jpg)
+
 Time to move again! We picked up our luggage from the locker — _one cool wrist wave_, locker opens — _bam!_ magic. Then, it was off to **Nagano Station**, and from there, a connecting train to **Matsumoto**. We reached around **7:30 PM**, and the cold hit us instantly.
 
-Dragging our trolleys for a **20-minute walk** through chilly, quiet streets felt like a callback to our first day in Kyoto. On the way, we passed the **bus terminal** where we’d be boarding the next morning.
+Dragging our trolleys for a **20-minute walk** through chilly, quiet streets felt like a callback to our first day in Kyoto.
 
 Our stay, **Ryokan Matsukaze**, sat near a split in the **Ta River**, right at the edge of the interfluve. Finding it at night, in the cold, was tricky. And when I say cold — **I mean cold**. Matsumoto is surrounded by mountains and feels like a frozen valley after dark.
 
@@ -272,6 +282,8 @@ But hunger doesn’t care about vibes — so at around **10:30 PM**, we hopp
 We ended up at **McDonald’s near Matsumoto Station**, warmed up with burgers and fries… and then had an unexpected adventure. One of our friend’s **bike chains came off**, and we spent the next **40 minutes in the cold** trying to fix it with freezing fingers.
 
 Then, a heartwarming moment — a kind old Japanese man pulled into his driveway nearby, saw us struggling, brought out his **toolkit**, and tried to help us. Language barrier? Yes. Helpfulness? 100%. Even though it looked impossible, with one strong yank on the pedal, **the chain snapped back into place**. We laughed it off and rode back like heroes who just survived a side quest. 😄
+
+![alt text](/images/japan/matsumoto.jpg)
 
 Back at the ryokan, bellies full, hearts warm, toes frozen — we crashed into our futons and had the **best sleep**, surrounded by rivers, mountains, and a whole lot of memories.
 
