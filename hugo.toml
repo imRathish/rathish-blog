@@ -1,6 +1,6 @@
 baseURL = "https://rathish.netlify.app/"
 languageCode = "en-us"
-title = "Rathish's Blog"
+title = ""
 theme = "PaperMod"
 
 [params]
@@ -11,6 +11,19 @@ theme = "PaperMod"
   defaultTheme = "auto"
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Hey, I'm Subramanyam 👋"
+    subtitle = "Most people call me Rathish. I’m a software engineer, and this is my little corner of the internet where I share my travels, photography, and whatever else sparks my curiosity. ✨"
+    imageUrl = "/images/profile/me.png"
+    imageWidth = 200
+    imageHeight = 200
+    imageTitle = "Rathish"
+    buttons = [
+      { name = "Travel", url = "/travel" },
+      { name = "Photography", url = "/about" },
+    ]
 
   [params.list]
     layout = "cards"  # Options: list, cards, compact
@@ -29,13 +42,6 @@ url = "https://github.com/imRathish"
 name = "linkedin"
 url = "https://linkedin.com/in/subramanyam-s-s-11252313b"
 
-[menu]
-
-  [[menu.main]]
-  identifier = "search"
-  name = "Search"
-  url = "/search/"
-  weight = 30
 
 [markup]
   [markup.goldmark]
