@@ -1,4 +1,6 @@
 
+# 14 days in Japan
+
 **October** became _our_ month to explore Japan, and for good reason! It’s one of those magical times when the tourist crowds ease up, giving you a bit more breathing room to enjoy the country. Plus, it’s the start of autumn — while the fiery browns and golds aren’t in full bloom just yet, you can feel the subtle transformation as the leaves hint at their seasonal change.
 
 Oh, and here’s the best part: we snagged an absolute _steal_ of a deal! Air India offered round-trip tickets for under ₹40,000 — practically unheard of for such an adventure. How could we resist?
